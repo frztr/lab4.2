@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3e43f785_002D9f25_002D41e4_002Dabee_002D8bc8932b01d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WarehouseSystemTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5B10E718-5EA7-DED6-B964-5B967D9CD9A3::net10.0::WarehouseSystemTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69e55a8b_002D9aa7_002D4109_002Db615_002D3734ad80f90a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from WarehouseSystemTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;5B10E718-5EA7-DED6-B964-5B967D9CD9A3/f:WarehouseSystemTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=97f4fd34_002Dc405_002D42e9_002D8f85_002De8a3047638ce/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from WarehouseSystemTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;5B10E718-5EA7-DED6-B964-5B967D9CD9A3/f:WarehouseSystemTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
